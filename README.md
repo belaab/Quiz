@@ -1,2 +1,2 @@
 # Quiz
-Extremely simple quiz app
+Extremely simple quiz app with swiping gradients
